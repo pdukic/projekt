@@ -1,0 +1,2 @@
+# projekt
+repozitorij za PZI
